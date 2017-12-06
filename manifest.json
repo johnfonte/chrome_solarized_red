@@ -1,0 +1,43 @@
+{
+   "description": "John's Solarized Red Theme",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmYiRAFsZNmqxxaykbNboPbNxDGASlyIBxb9F0obMV/TvuiqnQH3pBffp6bJRXcMlMRocOkzAizoe8c26KpkLFgoyRR7IaLK1MtlUaiLxILI8DqY9dI7p4y5bME4M5fEOisxeFppkGQJVa/xnO3nm+FCznm1Q9Gqn26YzQgEyTb5a17oRE72q8xrT6z0t8bU/YIwFxyItDGNrwULeibH1+LgHqigEMelhj3JBUx5Ye0XiT3Y8k336yqdvrATvbRlWg/tshXwek1tpxau9nlkeJr8gXMk0m9FkWiIvxiDJ6c+iA6qDMvGIpmQgfF+Qm53hFVVF+ZhA/jUTE2R3oapceQIDAQAB",
+   "manifest_version": 2,
+   "name": "Solar Red",
+   "theme": {
+      "colors": {
+         "frame": [ 0, 43, 54 ],
+         "frame_inactive": [ 238, 232, 213 ],
+         "frame_incognito_active": [ 238, 232, 213 ],
+         "frame_incognito_inactive": [ 238, 232, 213 ],
+         "toolbar": [ 220, 50, 47 ],
+         "tab_text": [ 238, 232, 213 ],
+         "tab_background_text": [ 238, 232, 213 ],
+         "bookmark_text": [ 238, 232, 213 ],
+         "ntp_background": [ 0, 43, 54 ],
+         "ntp_text": [ 238, 232, 213 ],
+         "ntp_link": [ 0, 43, 54 ],
+         "ntp_link_underline": [ 238, 232, 213 ],
+         "ntp_header": [ 238, 232, 213 ],
+         "ntp_section": [ 238, 232, 213 ],
+         "ntp_section_text": [ 238, 232, 213 ],
+         "ntp_section_link": [ 238, 232, 213 ],
+         "ntp_section_link_underline": [ 238, 232, 213 ],
+         "control_background": [ 220, 50, 47, 1 ],
+         "button_background": [ 220, 50, 47, 1 ]
+      },
+      "images": {
+         "theme_frame": "images/theme_frame.png",
+         "theme_tab_background": "images/theme_tab_background.png",
+         "theme_toolbar": "images/theme_toolbar.png"
+      },
+      "properties": {
+         "ntp_background_alignment": "bottom",
+         "ntp_background_repeat": "no-repeat"
+      },
+      "tints": {
+         "buttons": [ 0, 0, 1 ]
+      }
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1"
+}
